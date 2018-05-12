@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Antero_de_Quental
     - http://en.wikipedia.org/wiki/Antero_de_Quental
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31654#Oliveira-Martins--13-O-critico-litterario-o-economista-o-historiador-o-publicista-o-politico
 gutenberg_issued: '2010-03-15'
 gutenberg_type: Text
 identifiers:
