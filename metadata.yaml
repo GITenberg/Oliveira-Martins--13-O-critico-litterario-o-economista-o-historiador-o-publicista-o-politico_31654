@@ -1,0 +1,36 @@
+_repo: Oliveira-Martins--13-O-critico-litterario-o-economista-o-historiador-o-publicista-o-politico_31654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Tarquinio de Quental, Anthero
+    - Quental, Anthero de
+    - De Quental, Antero
+    - Tarquino do Quental, Anthero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31654'
+  lccn: '35029070'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Oliveira Martins, J. P. (Joaquim Pedro), 1845-1894'
+title: "Oliveira Martins\r\nO critico litterario, o economista, o historiador, o publicista,\
+  \ o politico"
+url: http://www.gutenberg.org/ebooks/31654
